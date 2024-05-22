@@ -29,6 +29,7 @@ I'm a passionate web developer with a love for creating amazing user experiences
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Elton133&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elton133&layout=compact&theme=radical)
 
+
 ## Get in Touch
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:eltonmorden029@gmail.com)
