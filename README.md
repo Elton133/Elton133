@@ -42,6 +42,7 @@ I'm a passionate web developer with a love for creating amazing user experiences
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Elton133&theme=dark)
 
 <img width="1000" src="github-snake.svg" alt="snake"/>
+
 ## About Me
 
 Thanks for visiting my profile, and feel free to check out my repositories!
