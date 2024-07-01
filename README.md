@@ -39,7 +39,8 @@ I'm a passionate web developer with a love for creating amazing user experiences
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/elton-morden-9a7bb5261?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTxYPyT8eTpaUSS9HBv8Acw%3D%3D/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_.el_ton/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Elton133&" alt="Elton133" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?Elton133&theme=dark)](https://git.io/streak-stats)
+
 
 <img width="1000" src="github-snake.svg" alt="snake"/>
 
