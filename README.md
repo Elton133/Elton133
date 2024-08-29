@@ -8,7 +8,7 @@ Student and Web Developer
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [eltonmorden029@gmail.com](mailto:eltonmorden029@gmail.com)
-* 🧠  I'm learning Reactjs
+* 🧠  I'm currently learning Reactjs
 * 🤝  I'm open to collaborating on 👯exciting and innovative projects
 
 ### Skills
