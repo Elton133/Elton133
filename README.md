@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student and Web Developer
 -------------------------
 
-👨‍🎓 A third year IT student 🔭 I’m currently working on various web development projects 🌱 I’m continuously learning and improving my skills in full-stack development 💬 Ask me about web development, programming, or any tech-related topics
+👨‍🎓 A third year IT student 🔭 I’m currently working on various web development projects 🌱 I’m continuously learning and improving my skills in frontend development 💬 Ask me about web development, programming, or any tech-related topics
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [eltonmorden029@gmail.com](mailto:eltonmorden029@gmail.com)
