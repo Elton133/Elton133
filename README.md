@@ -8,7 +8,7 @@ Student and Web Developer
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [eltonmorden029@gmail.com](mailto:eltonmorden029@gmail.com)
-* 🚀  I'm currently working on [TourGhana](http://tourghana1.netlify.app)
+* 🚀  I'm currently working on [AI ALLY](http://ai-ally.netlify.app)
 * 🧠  I'm learning Reactjs
 * 🤝  I'm open to collaborating on 👯exciting and innovative projects
 
