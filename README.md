@@ -1,15 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Morden Elton John
 =========================================================================================================================================
 
-Student and Web Developer
+Frontend Developer
 -------------------------
 
-👨‍🎓 A third year IT student 🔭 I’m currently working on various web development projects 🌱 I’m continuously learning and improving my skills in full-stack development 💬 Ask me about web development, programming, or any tech-related topics
+🔹 Passionate Full-Stack Developer | Building Scalable & Interactive Web Solutions
+🔹 Constantly Learning & Innovating in Web Technologies
+🔹 Open to Discussions on Web Development, Programming, and Emerging Tech Trends
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [eltonmorden029@gmail.com](mailto:eltonmorden029@gmail.com)
 * 🚀  I'm currently working on [Dashboard](http://elton-dashboard.netlify.app)
-* 🧠  I'm learning Reactjs
+* 🧠  Reactjs Developer
 * 🤝  I'm open to collaborating on 👯exciting and innovative projects
 
 ### Skills
