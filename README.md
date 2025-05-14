@@ -10,7 +10,6 @@ Frontend Developer
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [eltonmorden029@gmail.com](mailto:eltonmorden029@gmail.com)
-* 🚀  I'm currently working on [Dashboard](http://elton-dashboard.netlify.app)
 * 🧠  Reactjs Developer
 * 🤝  I'm open to collaborating on 👯exciting and innovative projects
 
