@@ -65,3 +65,4 @@ Looking to work with others on innovative web projects, experiments, and open-so
 
 <a href="https://github.com/Elton133" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elton133&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/eltonmorden?theme=dark&font=Montserrat&ext=contest)
