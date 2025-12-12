@@ -7,50 +7,40 @@ Software Engineer
 What I’m Working On
 
 Sharpening my front-end skills with React, Next.js, and modern UI/UX patterns.
-
 Building practical projects integrating Strapi, Next.js App Router, and cloud infrastructure.
-
 Studying blockchain fundamentals (consensus mechanisms, smart contracts, PoW/PoS, decentralized architectures).
-
 Improving cloud knowledge with hands-on AWS practice — AWS Certified Cloud Practitioner.
-
 Exploring Spatial Computing and WebXR for future-ready 3D interfaces.
 
 🛠️ Current Skills
 
 Frontend: React, Next.js, TypeScript, Tailwind CSS, Framer
+
 Backend / APIs: Node.js, Express, Strapi (v4 & v5), REST, basic GraphQL
+
 Cloud & DevOps: AWS (Cloud Practitioner), CI/CD fundamentals, Linux, Git
+
 Databases: PostgreSQL, MongoDB, SQLite
+
 Tools: GitHub, VS Code, Vite, Docker basics
+
 Other Interests: Web performance, UX patterns, emerging technologies
 
 🤖 Collaboration With AI
 
 I actively use AI tools (including ChatGPT) to:
-
 Review and refactor code
-
 Break down complex concepts
-
 Brainstorm architecture and design ideas
-
 Debug tricky issues
-
 Speed up documentation and planning
 
 AI is part of my workflow, but I always strive to understand the concepts deeply and build independently.
+🌍 Location - Ghana 🇬🇭
 
-🌍 Location
-
-Ghana 🇬🇭
-
-📫 Contact
-
-Email: eltonmorden029@gmail.com
+📫 Contact - Email: eltonmorden029@gmail.com
 
 🤝 Open to Collaboration
-
 Looking to work with others on innovative web projects, experiments, and open-source ideas.
 
 ### Skills
