@@ -4,14 +4,54 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------------------
 
-🔹 Passionate Full-Stack Developer | Building Scalable & Interactive Web Solutions
-🔹 Constantly Learning & Innovating in Web Technologies
-🔹 Open to Discussions on Web Development, Programming, and Emerging Tech Trends
+What I’m Working On
 
-* 🌍  I'm based in Ghana
-* ✉️  You can contact me at [eltonmorden029@gmail.com](mailto:eltonmorden029@gmail.com)
-* 🧠  Reactjs Developer
-* 🤝  I'm open to collaborating on 👯exciting and innovative projects
+Sharpening my front-end skills with React, Next.js, and modern UI/UX patterns.
+
+Building practical projects integrating Strapi, Next.js App Router, and cloud infrastructure.
+
+Studying blockchain fundamentals (consensus mechanisms, smart contracts, PoW/PoS, decentralized architectures).
+
+Improving cloud knowledge with hands-on AWS practice — AWS Certified Cloud Practitioner.
+
+Exploring Spatial Computing and WebXR for future-ready 3D interfaces.
+
+🛠️ Current Skills
+
+Frontend: React, Next.js, TypeScript, Tailwind CSS, Framer
+Backend / APIs: Node.js, Express, Strapi (v4 & v5), REST, basic GraphQL
+Cloud & DevOps: AWS (Cloud Practitioner), CI/CD fundamentals, Linux, Git
+Databases: PostgreSQL, MongoDB, SQLite
+Tools: GitHub, VS Code, Vite, Docker basics
+Other Interests: Web performance, UX patterns, emerging technologies
+
+🤖 Collaboration With AI
+
+I actively use AI tools (including ChatGPT) to:
+
+Review and refactor code
+
+Break down complex concepts
+
+Brainstorm architecture and design ideas
+
+Debug tricky issues
+
+Speed up documentation and planning
+
+AI is part of my workflow, but I always strive to understand the concepts deeply and build independently.
+
+🌍 Location
+
+Ghana 🇬🇭
+
+📫 Contact
+
+Email: eltonmorden029@gmail.com
+
+🤝 Open to Collaboration
+
+Looking to work with others on innovative web projects, experiments, and open-source ideas.
 
 ### Skills
 
